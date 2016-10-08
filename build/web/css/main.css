@@ -1,0 +1,20 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-static-top {
+    margin-bottom:19px
+}
+
+.btn {
+    border: none;
+}
+
+.navbar-brand {
+    animation: colorfade 5s infinite;
+    font-weight: 700;
+    color: #aaa;
+}
+
+a {
+    transition: all 0.5s;
+}
