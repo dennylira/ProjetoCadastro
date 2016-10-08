@@ -10,7 +10,7 @@
                 <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
                 <label for="campo-1">Cpf </label>
                 <!-- Se quiserem diminuir o tamanho do input usem style='width: 150px' -->
-                <input style='width: 80%' type="number" class="form-control" placeholder="Descreva o campo">
+                <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
                 <label for="campo-1">RG </label>
                 <!-- Se quiserem diminuir o tamanho do input usem style='width: 150px' -->
                 <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
@@ -20,13 +20,7 @@
                 <label for="campo-1">Telefone </label>
                 <!-- Se quiserem diminuir o tamanho do input usem style='width: 150px' -->
                 <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
-                <label for="campo-1">Logradouro </label>
-                <!-- Se quiserem diminuir o tamanho do input usem style='width: 150px' -->
-                <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
-                <label for="campo-1">Cidade </label>
-                <!-- Se quiserem diminuir o tamanho do input usem style='width: 150px' -->
-                <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
-                <label for="campo-1">Estado</label>
+                <label for="campo-1">Endereço </label>
                 <!-- Se quiserem diminuir o tamanho do input usem style='width: 150px' -->
                 <input style='width: 80%' type="text" class="form-control" placeholder="Descreva o campo">
             </div>
