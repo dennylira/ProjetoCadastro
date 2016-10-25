@@ -1,0 +1,17 @@
+SMAP
+cliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 cliente.jsp
+cliente.jsp
++ 1 header.jspf
+WEB-INF/header.jspf
++ 2 footer.jspf
+WEB-INF/footer.jspf
+*L
+1:50
+1#1,44:51
+2#0,31:95
+1#2,17:125
+*E
